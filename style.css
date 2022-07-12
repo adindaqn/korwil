@@ -1,0 +1,26 @@
+body {
+  min-height: 200px;
+}
+
+.navbar {
+ background-color: #2191d1;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color:#bce3fa;;
+}
+#destinasi {
+  background-color:#bce3fa;;
+}
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  width: 100%;
+}
